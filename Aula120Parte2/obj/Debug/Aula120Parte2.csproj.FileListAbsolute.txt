@@ -1,0 +1,7 @@
+C:\Users\User01\source\repos\Aula120Parte2\Aula120Parte2\bin\Debug\Aula120Parte2.exe.config
+C:\Users\User01\source\repos\Aula120Parte2\Aula120Parte2\bin\Debug\Aula120Parte2.exe
+C:\Users\User01\source\repos\Aula120Parte2\Aula120Parte2\bin\Debug\Aula120Parte2.pdb
+C:\Users\User01\source\repos\Aula120Parte2\Aula120Parte2\obj\Debug\Aula120Parte2.csprojAssemblyReference.cache
+C:\Users\User01\source\repos\Aula120Parte2\Aula120Parte2\obj\Debug\Aula120Parte2.csproj.CoreCompileInputs.cache
+C:\Users\User01\source\repos\Aula120Parte2\Aula120Parte2\obj\Debug\Aula120Parte2.exe
+C:\Users\User01\source\repos\Aula120Parte2\Aula120Parte2\obj\Debug\Aula120Parte2.pdb
